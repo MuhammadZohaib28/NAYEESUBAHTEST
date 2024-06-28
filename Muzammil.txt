@@ -1,0 +1,18 @@
+Question 1
+
+Create an array of numbers from 6 to 10. Write a JavaScript function to print each number in the array to the console.
+
+
+Question 2
+
+Write a JavaScript function to print all even numbers from 1 to 10 using a for loop.
+
+
+Question 3
+
+Write a JavaScript function that takes a number and prints "Odd" if the number is odd and "Even" if the number is even.
+
+
+Question 4
+
+Write a JavaScript function that takes a grade (A, B, C, D, F) and prints "Excellent", "Good", "Average", "Poor", or "Fail" using a switch case.

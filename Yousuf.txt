@@ -1,0 +1,34 @@
+Question 1
+
+Create an array of numbers from 16 to 20. Write a JavaScript function to print each number in the array to the console.
+
+
+
+
+
+
+Question 2
+
+Write a JavaScript function to print all odd numbers from 11 to 20 using a for loop.
+
+
+
+
+
+
+Question 3
+
+Write a JavaScript function that takes a number and prints "Odd" if the number is odd and "Even" if the number is even.
+
+
+
+
+
+
+Question 4
+
+Write a JavaScript function that takes a number from 1 to 12 and prints the corresponding month name using a switch case.
+
+
+
+

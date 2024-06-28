@@ -1,0 +1,30 @@
+Question 1
+
+Create an array of numbers from 11 to 15. Write a JavaScript function to print each number in the array to the console.
+
+
+
+
+
+Question 2
+
+Write a JavaScript function to print all even numbers from 11 to 20 using a for loop.
+
+
+
+
+
+Question 3
+
+Write a JavaScript function that takes a number and prints "Positive", "Negative", or "Zero" based on the value of the number.
+
+
+
+
+
+Question 4
+
+Write a JavaScript function that takes a grade (A, B, C, D, F) and prints "Excellent", "Good", "Average", "Poor", or "Fail" using a switch case.
+
+
+

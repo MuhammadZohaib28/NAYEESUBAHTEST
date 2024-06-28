@@ -1,0 +1,34 @@
+Question 1
+
+Create an array of numbers from 1 to 5. Write a JavaScript function to print each number in the array to the console.
+
+
+
+
+
+
+Question 2
+
+Write a JavaScript function to print all even numbers from 1 to 10 using a for loop.
+
+
+
+
+
+
+Question 3
+
+Write a JavaScript function that takes a number and prints "Even" if the number is even and "Odd" if the number is odd.
+
+
+
+
+
+
+Question 4
+
+Write a JavaScript function that takes a day of the week as a string (e.g., "Monday") and prints "Weekday" for weekdays and "Weekend" for weekends using a switch case.
+
+
+
+

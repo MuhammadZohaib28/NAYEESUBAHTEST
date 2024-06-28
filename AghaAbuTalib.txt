@@ -1,0 +1,26 @@
+Question 1
+
+Create an array of numbers from 6 to 10. Write a JavaScript function to print each number in the array to the console.
+
+
+
+
+Question 2
+
+Write a JavaScript function to print all odd numbers from 1 to 10 using a for loop.
+
+
+
+
+Question 3
+
+Write a JavaScript function that takes a number and prints "Positive" if the number is greater than 0 and "Negative" if the number is less than 0.
+
+
+
+
+Question 4
+
+Write a JavaScript function that takes a month of the year as a string (e.g., "January") and prints "Winter", "Spring", "Summer", or "Fall" based on the month using a switch case.
+
+
